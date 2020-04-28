@@ -1,0 +1,4 @@
+github.com/andrew00x/xmlrpc v0.1.0 h1:YfJruXktVO0P/ID68RRQRhk+c4kJFtL8tMYGpRp6fqQ=
+github.com/andrew00x/xmlrpc v0.1.0/go.mod h1:FsZVocE9OV3IlILHYB9HmF7YbPWLGdXCG6Oj7By4Xr0=
+github.com/mpl/scgiclient v0.0.0-20171022154509-88aedc8df75e h1:nvz3d7J0JUa16L/0Y/7Ucd3yGnSlXHKPi8HPGUCM9P0=
+github.com/mpl/scgiclient v0.0.0-20171022154509-88aedc8df75e/go.mod h1:TJ1gvaBs81R993U51v2TGrwGNXIo9eE4AoInJudqB9Y=
