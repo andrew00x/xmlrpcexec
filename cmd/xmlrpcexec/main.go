@@ -29,7 +29,7 @@ func main() {
 		for _, arg := range flag.Args() {
 			params = append(params, arg)
 		}
-		resp, err = client.Send(*method, params)
+		resp, err = client.Send(*method, params...)
 	}
 	if err != nil {
 		fmt.Printf("\tError: XML-RPC call error: %s", err.Error())

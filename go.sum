@@ -1,4 +1,13 @@
 github.com/andrew00x/xmlrpc v0.1.0 h1:YfJruXktVO0P/ID68RRQRhk+c4kJFtL8tMYGpRp6fqQ=
 github.com/andrew00x/xmlrpc v0.1.0/go.mod h1:FsZVocE9OV3IlILHYB9HmF7YbPWLGdXCG6Oj7By4Xr0=
+github.com/andrew00x/xmlrpc v0.1.1 h1:V69UmNIcDuXrJ9KGYBi0VhqED29fUWcMWhJctUZcgGk=
+github.com/andrew00x/xmlrpc v0.1.1/go.mod h1:hFvinwXv6+SW0hH6pqXYmC3DygQzQXivk85o0fG2OSA=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/go-xmlfmt/xmlfmt v0.0.0-20191208150333-d5b6f63a941b/go.mod h1:aUCEOzzezBEjDBbFBoSiya/gduyIiWYRP6CnSFIV8AM=
 github.com/mpl/scgiclient v0.0.0-20171022154509-88aedc8df75e h1:nvz3d7J0JUa16L/0Y/7Ucd3yGnSlXHKPi8HPGUCM9P0=
 github.com/mpl/scgiclient v0.0.0-20171022154509-88aedc8df75e/go.mod h1:TJ1gvaBs81R993U51v2TGrwGNXIo9eE4AoInJudqB9Y=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
